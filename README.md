@@ -1,27 +1,53 @@
-# Hi there, I'm Hemasundar Ragolu 👋
+# Hemasundar Ragolu
 
-## 🙋 About Me:
-- 🎓 B.Tech CSE student at GNITC Hyderabad (CGPA 8.35)
+📍 Hyderabad, India &nbsp;|&nbsp; 📧 hemasundarragolu14@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://hemasundar14.github.io/Portfolio/)
+
+---
+
+🎓 Final year B.Tech IT student at Guru Nanak Institutions Technical Campus (CGPA 8.35), building real-world software one project at a time.
+
+Currently focused on landing my first software engineering role where I can contribute meaningfully and keep growing.
+
+---
+
+## What I work with
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Projects
+
+**Academic Result Analysis System** — Django · MySQL
+> Web app to manage and track student academic performance with modules for profiles, results and reports.
+
+**Employee Database Management System** — HTML · CSS · JavaScript
+> Web-based app to add, view and delete employee records within an organization.
+
+---
+
+## A few things about me
+
 - 🏆 GATE 2026 Qualified
-- 👥 Co-Lead at Google Developer Groups on Campus GNI
-- 📍 Hyderabad, India
-- 🌐 Portfolio: https://hemasundar14.github.io/Portfolio/
+- 👥 Co-Lead, Google Developer Groups on Campus GNI — organized campus-wide tech events and peer learning sessions
+- ☁️ Google Cloud Computing Foundations certified
+- 🤖 5-Day Generative AI Intensive — Google x Kaggle
+- 💡 Always building something new
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## 📊 GitHub Stats:
-![Hemasundar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemasundar14&show_icons=true&theme=dark)
+## GitHub Stats
 
-## 🌐 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemasundar14&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Hemasundar14&show_icons=true&theme=default&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemasundar14&layout=compact&theme=default&hide_border=true)
 
-## 📫 Contact:
-- 📧 Email: hemasundarragolu14@gmail.com
+---
+
+*Open to software engineering opportunities — feel free to reach out!*
