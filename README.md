@@ -36,7 +36,6 @@ Currently focused on landing my first software engineering role where I can cont
 ## A few things about me
 
 - 🏆 GATE 2026 Qualified
-- 👥 Co-Lead, Google Developer Groups on Campus GNI — organized campus-wide tech events and peer learning sessions
 - ☁️ Google Cloud Computing Foundations certified
 - 🤖 5-Day Generative AI Intensive — Google x Kaggle
 - 💡 Always building something new
